@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+.env*
+!.env.example
+work/
+outputs/Book.html
+
+# Verified Word batches are recoverable project inputs and are not ignored.

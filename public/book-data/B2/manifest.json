@@ -1,0 +1,19 @@
+{
+  "bookId": "B2",
+  "partId": "P1",
+  "schemaVersion": 1,
+  "releaseId": null,
+  "canonicalPageCount": null,
+  "planningEstimate": 1900,
+  "fullPartAuditStatus": "not_started",
+  "wordBatches": [],
+  "searchIndexPath": null,
+  "spreadPolicy": {
+    "firstCanonicalPageSide": null,
+    "coversParticipate": null,
+    "coverPageIndices": null,
+    "intentionalBlankBehavior": null,
+    "intentionalBlankPageIndices": null
+  },
+  "pages": []
+}

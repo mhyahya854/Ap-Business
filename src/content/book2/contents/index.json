@@ -1,0 +1,219 @@
+{
+  "sourceState": "partial",
+  "sourceNote": "The complete contents listing was not included in the project files or attached brief. This file stores only titles explicitly present there and the example printed label 4 for Module 1.1; all other missing labels remain unguessed.",
+  "entries": [
+    {
+      "id": "front-matter",
+      "type": "front-matter",
+      "title": "Front Matter",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "unit-1",
+      "type": "unit",
+      "title": "Unit 1 Business, Competition, and New Ideas",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": [
+        {
+          "id": "module-1-1",
+          "type": "module",
+          "title": "Module 1.1 What Is a Business?",
+          "printedPageLabel": "4",
+          "canonicalPageId": null,
+          "children": [
+            {
+              "id": "businesses-meet-needs",
+              "type": "section",
+              "title": "Businesses Meet Needs and Solve Problems",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            },
+            {
+              "id": "customers-and-consumers",
+              "type": "section",
+              "title": "Customers and Consumers",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            },
+            {
+              "id": "problem-solution-fit",
+              "type": "section",
+              "title": "The Problem-Solution Fit",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            },
+            {
+              "id": "businesses-create-value",
+              "type": "section",
+              "title": "Businesses Create Value",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            },
+            {
+              "id": "module-1-1-review",
+              "type": "review",
+              "title": "Module 1.1 Review",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            },
+            {
+              "id": "practice-ap-skills-1-1",
+              "type": "practice",
+              "title": "Practice Your AP® Skills",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            },
+            {
+              "id": "case-imperfect-foods",
+              "type": "case-study",
+              "title": "Case Study Imperfect Foods",
+              "printedPageLabel": null,
+              "canonicalPageId": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "module-1-2",
+          "type": "module",
+          "title": "Module 1.2 Markets and Competitive Advantage",
+          "printedPageLabel": null,
+          "canonicalPageId": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "type": "unit",
+      "title": "Unit 2 Marketing",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "unit-3-part-1",
+      "type": "unit",
+      "title": "Unit 3 Part 1 Personal Saving and Borrowing",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "unit-3-part-2",
+      "type": "unit",
+      "title": "Unit 3 Part 2 Business Finance and Accounting",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "unit-4",
+      "type": "unit",
+      "title": "Unit 4 Management and Strategy",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": [
+        {
+          "id": "module-4-4",
+          "type": "module",
+          "title": "Module 4.4 Strategic Frameworks: Porter’s Five Forces and SWOT Analysis",
+          "printedPageLabel": null,
+          "canonicalPageId": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "unit-5",
+      "type": "unit",
+      "title": "Unit 5 Personal Goals, Budgeting, and Investing",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "appendix-business-model-canvas",
+      "type": "appendix",
+      "title": "Appendix: The Business Model Canvas",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "references",
+      "type": "references",
+      "title": "References",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "glossary",
+      "type": "glossary",
+      "title": "Glossary",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "glossary-glosario",
+      "type": "glossary",
+      "title": "Glossary/Glosario",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "index",
+      "type": "index",
+      "title": "Index",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "fep",
+      "type": "back-matter",
+      "title": "FEP",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "back-cover",
+      "type": "back-matter",
+      "title": "Back Cover",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "children": []
+    },
+    {
+      "id": "consumer-psychology-cialdini",
+      "type": "unplaced",
+      "title": "Consumer Psychology: Cialdini’s Seven Principles of Influence",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "placementStatus": "unresolved",
+      "children": []
+    },
+    {
+      "id": "case-madoff",
+      "type": "unplaced",
+      "title": "Case Study Bernard L. Madoff Investment Securities, LLC.",
+      "printedPageLabel": null,
+      "canonicalPageId": null,
+      "placementStatus": "unresolved",
+      "children": []
+    }
+  ]
+}
