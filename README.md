@@ -20,7 +20,13 @@ npm run validate:reader
 npm run build
 ```
 
-`npm run build` writes a static site to `out/`. For a GitHub Pages project site, set `NEXT_PUBLIC_BASE_PATH` to the repository path at build time (for example, `/B2-Textbook-Website`). A custom-domain or root Pages site can leave it unset. The site has no runtime DOCX parser, paid service, database, or always-on server dependency.
+`npm run build` writes a static site to `out/` by default. For a GitHub Pages project site, set `NEXT_PUBLIC_BASE_PATH` to the repository path at build time (for example, `/B2-Textbook-Website`). A custom-domain or root Pages site can leave it unset.
+
+## Deploy to Vercel
+
+Import `mhyahya854/Ap-Business` as a Next.js project and keep the detected defaults: repository root as the Root Directory, `npm run build` as the Build Command, and the Next.js default Output Directory. Vercel's `VERCEL=1` system variable selects the normal Next.js build and ignores `NEXT_PUBLIC_BASE_PATH`; outside Vercel, the build stays a static export for GitHub Pages. Make sure Vercel's system environment variables are exposed to the deployment.
+
+The site has no runtime DOCX parser, paid service, database, or always-on server dependency.
 
 ## Current source state
 
@@ -42,7 +48,7 @@ The canonical manifest is `public/book-data/B2/manifest.json`. It currently reco
 10. Theme changes affect application chrome; textbook page surfaces remain faithful to source colors.
 11. Infinite scroll virtualizes nearby pages and retains estimated spacers for offscreen pages.
 12. GitHub is the durable home for recoverable project sources and generated reader data.
-13. Deployment uses static files compatible with free GitHub Pages hosting; the site does not fetch Git LFS objects.
+13. Non-Vercel builds export static files for GitHub Pages; Vercel builds use its detected Next.js output.
 14. A combined full-book DOCX is a generated export; verified Word batches remain recoverable inputs.
 
 ## Source and generated data layout
